@@ -1,4 +1,5 @@
-source :rubygems
+
+.madierarrc :rubygems
 source "http://rubygems.org"
 gem "resque"
 gem "rack"
